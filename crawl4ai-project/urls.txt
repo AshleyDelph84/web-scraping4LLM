@@ -1,0 +1,4 @@
+https://docs.crewai.com/installation
+https://docs.crewai.com/concepts/agents
+https://docs.crewai.com/concepts/tasks
+https://docs.crewai.com/concepts/crews
